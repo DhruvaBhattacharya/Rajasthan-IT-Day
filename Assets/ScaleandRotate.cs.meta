@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 5bdd9a85b6e3ed34d91bc7b5a859012c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - ScalingScr: {instanceID: 0}
+  - RotationScr: {instanceID: 0}
+  - Table: {fileID: 5317459802938116836, guid: 7e1b934738bccf44cb36ba2854cd0510, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

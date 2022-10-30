@@ -1,0 +1,169 @@
+{
+    "m_SelectedDeviceId": "HU5DNZKZRC4HEA6X",
+    "m_SelectedPackage": {
+        "deviceId": "HU5DNZKZRC4HEA6X",
+        "name": "com.TechXR.Default",
+        "processId": 20427,
+        "exited": false
+    },
+    "m_SelectedPriority": 0,
+    "m_KnownPackagesForSerialization": [
+        {
+            "deviceId": "tsxoojnjvsqc5hqw",
+            "name": "com.TechXR.Default",
+            "processId": 24453,
+            "exited": true
+        },
+        {
+            "deviceId": "tsxoojnjvsqc5hqw",
+            "name": "com.TechXR.Default",
+            "processId": 19053,
+            "exited": true
+        },
+        {
+            "deviceId": "tsxoojnjvsqc5hqw",
+            "name": "com.DefaultCompany.FirstProject",
+            "processId": 13336,
+            "exited": true
+        },
+        {
+            "deviceId": "tsxoojnjvsqc5hqw",
+            "name": "com.linkedin.android",
+            "processId": 17026,
+            "exited": true
+        },
+        {
+            "deviceId": "tsxoojnjvsqc5hqw",
+            "name": "com.android.settings",
+            "processId": 20850,
+            "exited": false
+        },
+        {
+            "deviceId": "tsxoojnjvsqc5hqw",
+            "name": "com.mi.android.globallauncher",
+            "processId": 2081,
+            "exited": false
+        },
+        {
+            "deviceId": "tsxoojnjvsqc5hqw",
+            "name": "com.TechXR.Default",
+            "processId": 10917,
+            "exited": false
+        },
+        {
+            "deviceId": "tsxoojnjvsqc5hqw",
+            "name": "com.TechXR.Default",
+            "processId": 14509,
+            "exited": false
+        },
+        {
+            "deviceId": "37c5267027027ece",
+            "name": "com.TechXR.ARCore",
+            "processId": 17280,
+            "exited": true
+        },
+        {
+            "deviceId": "37c5267027027ece",
+            "name": "com.TechXR.ARCore",
+            "processId": 19211,
+            "exited": true
+        },
+        {
+            "deviceId": "37c5267027027ece",
+            "name": "com.TechXR.ARCore",
+            "processId": 26202,
+            "exited": true
+        },
+        {
+            "deviceId": "37c5267027027ece",
+            "name": "com.TechXR.ARCore",
+            "processId": 28891,
+            "exited": true
+        },
+        {
+            "deviceId": "37c5267027027ece",
+            "name": "com.TechXR.ARCore",
+            "processId": 13804,
+            "exited": false
+        },
+        {
+            "deviceId": "ef49f889",
+            "name": "com.TechXR.Default",
+            "processId": 9545,
+            "exited": false
+        },
+        {
+            "deviceId": "HU5DNZKZRC4HEA6X",
+            "name": "com.TechXR.Default",
+            "processId": 20427,
+            "exited": false
+        }
+    ],
+    "m_Tags": {
+        "m_Entries": [
+            {
+                "m_Name": "Filter by all listed tags",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "No Filter",
+                "m_Selected": true
+            },
+            {
+                "m_Name": "",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "Tag Control...",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "Unity",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "CRASH",
+                "m_Selected": false
+            }
+        ]
+    },
+    "m_MemoryViewerState": {
+        "MemoryWindowHeight": 300.0,
+        "MemoryWindowWidth": 170.0,
+        "MemoryTypeEnabled": [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+        ],
+        "MemoryGroup": 2,
+        "Behavior": 0
+    },
+    "m_FilterOptions": {
+        "m_Filter": "",
+        "m_UseRegularExpressions": false,
+        "m_MatchCase": true
+    },
+    "m_SymbolPaths": [],
+    "m_CaptureVideoSettings": {
+        "TimeLimitEnabled": false,
+        "TimeLimit": 180,
+        "VideoSizeEnabled": false,
+        "VideoSizeX": 1280,
+        "VideoSizeY": 720,
+        "BitRateEnabled": false,
+        "BitRateK": 20000,
+        "DisplayIdEnabled": false,
+        "DisplayId": ""
+    }
+}
