@@ -2,4 +2,6 @@
 
 # This application is created to with the goal to teach under k-12 students the concept and the basic fundamentals of AR it uses AI to track the search result and optimises itself every time the user will land on search query the AI will greet the student with interactive answer
 
-https://youtu.be/JbLS83RMiX8
+
+
+[![Timmy Bro](https://img.youtube.com/vi/JbLS83RMiX8/0.jpg)](https://www.youtube.com/watch?v=JbLS83RMiX8)
